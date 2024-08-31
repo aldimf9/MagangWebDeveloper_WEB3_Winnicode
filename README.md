@@ -1,0 +1,5 @@
+- clone or download from https://github.com/aldimf9/MagangWebDeveloper_WEB3_Winnicode
+- cd backend
+- npx nodemon server
+- cd ../frontend
+- npm start
